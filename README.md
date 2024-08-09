@@ -40,6 +40,6 @@ npm install
 npm start
 
 # Contact
-# Atharva Parate - atharvaparate2607@gmail.com
+Atharva Parate - atharvaparate2607@gmail.com
 
-# Project Link: https://github.com/AtharvaParate/todo_list
+Project Link: https://github.com/AtharvaParate/todo_list
